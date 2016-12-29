@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+  <north>n</north>
+  <south>s</south>
+  <west>w</west>
+  <east>e</east>
+  <n>n</n>
+  <s>s</s>
+  <w>w</w>
+  <e>e</e>
+  <nw>nw</nw>
+</List>
